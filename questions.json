@@ -1,0 +1,61 @@
+questions = [
+    {"q": "How consistent is your wake-up time on weekdays?",
+     "opts": [("Always consistent",0),("Mostly consistent",1),("Sometimes varies",2),("Often varies",3),("Completely irregular",4)]},
+
+    {"q": "How refreshed do you feel upon waking up?",
+     "opts": [("Fully refreshed",0),("Mostly refreshed",1),("Neutral",2),("Slightly tired",3),("Very exhausted",4)]},
+
+    {"q": "How often do you delay getting out of bed after waking up?",
+     "opts": [("Never",0),("Rarely",1),("Sometimes",2),("Often",3),("Always",4)]},
+
+    {"q": "Do you follow a planned sequence of morning activities?",
+     "opts": [("Always",0),("Often",1),("Sometimes",2),("Rarely",3),("Never",4)]},
+
+    {"q": "How much time do you dedicate to your morning routine?",
+     "opts": [("More than 60 minutes",0),("45–60 minutes",1),("30–45 minutes",2),("15–30 minutes",3),("Less than 15 minutes",4)]},
+
+    {"q": "How often do you include physical activity?",
+     "opts": [("Daily",0),("Frequently",1),("Occasionally",2),("Rarely",3),("Never",4)]},
+
+    {"q": "How often do you skip breakfast?",
+     "opts": [("Never",0),("Rarely",1),("Sometimes",2),("Often",3),("Always",4)]},
+
+    {"q": "How quickly do you check your phone after waking up?",
+     "opts": [("After 1+ hour",0),("After 30–60 min",1),("After 15–30 min",2),("Within 15 min",3),("Immediately",4)]},
+
+    {"q": "How much time do you spend on your phone in the morning?",
+     "opts": [("None",0),("Less than 15 min",1),("15–30 min",2),("30–60 min",3),("More than 1 hour",4)]},
+
+    {"q": "How prepared do you feel before starting classes?",
+     "opts": [("Fully prepared",0),("Mostly prepared",1),("Somewhat prepared",2),("Slightly unprepared",3),("Not prepared at all",4)]},
+
+    {"q": "How often are you late or rushed in the morning?",
+     "opts": [("Never",0),("Rarely",1),("Sometimes",2),("Often",3),("Always",4)]},
+
+    {"q": "How well can you concentrate during your first class?",
+     "opts": [("Excellent",0),("Good",1),("Average",2),("Poor",3),("Very poor",4)]},
+
+    {"q": "What is your typical mood in the morning?",
+     "opts": [("Very positive",0),("Positive",1),("Neutral",2),("Negative",3),("Very negative",4)]},
+
+    {"q": "How motivated do you feel at the start of the day?",
+     "opts": [("Highly motivated",0),("Motivated",1),("Neutral",2),("Low motivation",3),("No motivation",4)]},
+
+    {"q": "How often do you feel mentally alert in the morning?",
+     "opts": [("Always",0),("Often",1),("Sometimes",2),("Rarely",3),("Never",4)]},
+
+    {"q": "How organized is your morning preparation?",
+     "opts": [("Fully organized",0),("Mostly organized",1),("Somewhat organized",2),("Disorganized",3),("Completely chaotic",4)]},
+
+    {"q": "Do you prepare for the next day the night before?",
+     "opts": [("Always",0),("Often",1),("Sometimes",2),("Rarely",3),("Never",4)]},
+
+    {"q": "Do you include calm activities (reading, journaling)?",
+     "opts": [("Daily",0),("Frequently",1),("Occasionally",2),("Rarely",3),("Never",4)]},
+
+    {"q": "How often do you feel stressed in the morning?",
+     "opts": [("Never",0),("Rarely",1),("Sometimes",2),("Often",3),("Always",4)]},
+
+    {"q": "How balanced does your morning feel overall?",
+     "opts": [("Very balanced",0),("Balanced",1),("Neutral",2),("Unbalanced",3),("Very chaotic",4)]},
+]
